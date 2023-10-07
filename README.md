@@ -1,19 +1,5 @@
-- 👋 Hi, I’m @f3kin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-f3kin/f3kin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-Put actual resume or just projects ?
-put non code projects i.e. robots ?
-how to organise it all for an employer
-  - folders
-  - src etc. ?
-Put uni assignments that were big projects
-put club code that I have written
-contribute to open source + comps
+- Hi, I’m @f3kin, a Second Year Mechatronics Student at Melbourne University
+- I am interested in all things robotics and making, and I am always striving to make something meaningful that will change peoples' lives
+- I am looking to collaborate on any open source or interesting projects, just contact me at fekins@student.unimelb.edu.au
+- Feel free to take a look at MyProjects repository to see the code that I have written for recent projects
+- I am currently working on projects for two space-related clubs 🚀 (which can't be shared due to copyright)
