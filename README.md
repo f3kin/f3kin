@@ -1,5 +1,1 @@
-- Hi, I’m @f3kin, a Third Year Mechatronics Student at Melbourne University
-- I am interested in all things robotics and making, and I am always striving to make something meaningful that will change peoples' lives
-- I am looking to collaborate on any open source or interesting projects, contact me at f3kin5@gmail.com
-- Feel free to take a look at my profile to see the code that I have written for recent projects
-- I am currently working on my startup @ Holonomy 📚, and writing code @ Norby 🤖
+building @ hourglassdigital.com.au
