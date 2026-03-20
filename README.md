@@ -1,1 +1,1 @@
-building @ hourglassdigital.com.au
+building @ hourglass.digital
