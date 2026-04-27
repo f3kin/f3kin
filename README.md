@@ -1,1 +1,1 @@
-building @ hourglass.digital
+building @ thehourglass.ai
